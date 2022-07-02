@@ -6,12 +6,12 @@
     
 }
 .head-pic{
-    max-width: 30%;
+    max-width: 40%;
 }
 .head-img{
     width:  300px;
     height: 300px;
-    border: 1px solid black;
+    border: 1px solid yellow;
     border-radius: 50%;
     margin: 20px;
 }
@@ -20,6 +20,4 @@
     font-size: 4rem;
     padding: 50px;
     margin-left: 100px;
-    
-    
 }
